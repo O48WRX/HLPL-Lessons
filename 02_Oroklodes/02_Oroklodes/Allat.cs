@@ -11,7 +11,9 @@ namespace _02_Oroklodes
 		private string nev;
 		private int allatID;
 
-		public int AllatID
+		// Protected védettségi szint
+		// Így csak ez az osztály és a leszármazotti kapcsolatban lévő osztályok fognak tudni hozzáférni ehhez a propertyhez.
+		protected int AllatID
 		{
 			get { return allatID; }
 			set { allatID = value; }
