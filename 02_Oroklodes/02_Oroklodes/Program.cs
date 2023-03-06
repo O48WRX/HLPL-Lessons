@@ -10,6 +10,11 @@ namespace _02_Oroklodes
     {
         static void Main(string[] args)
         {
+            Koala koala1 = new Koala("Ted", 1, "Fokozottan Védett");
+            koala1.HangotKiad();
+            koala1.felmaszikAFara();
+
+            Console.ReadKey();
         }
     }
 }

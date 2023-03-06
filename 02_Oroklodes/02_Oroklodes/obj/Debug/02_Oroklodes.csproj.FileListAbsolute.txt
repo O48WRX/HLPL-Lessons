@@ -1,0 +1,8 @@
+D:\Repositories\Magprog_tananyag\02_Oroklodes\02_Oroklodes\bin\Debug\02_Oroklodes.exe.config
+D:\Repositories\Magprog_tananyag\02_Oroklodes\02_Oroklodes\bin\Debug\02_Oroklodes.exe
+D:\Repositories\Magprog_tananyag\02_Oroklodes\02_Oroklodes\bin\Debug\02_Oroklodes.pdb
+D:\Repositories\Magprog_tananyag\02_Oroklodes\02_Oroklodes\obj\Debug\02_Oroklodes.csproj.AssemblyReference.cache
+D:\Repositories\Magprog_tananyag\02_Oroklodes\02_Oroklodes\obj\Debug\02_Oroklodes.csproj.SuggestedBindingRedirects.cache
+D:\Repositories\Magprog_tananyag\02_Oroklodes\02_Oroklodes\obj\Debug\02_Oroklodes.csproj.CoreCompileInputs.cache
+D:\Repositories\Magprog_tananyag\02_Oroklodes\02_Oroklodes\obj\Debug\02_Oroklodes.exe
+D:\Repositories\Magprog_tananyag\02_Oroklodes\02_Oroklodes\obj\Debug\02_Oroklodes.pdb
