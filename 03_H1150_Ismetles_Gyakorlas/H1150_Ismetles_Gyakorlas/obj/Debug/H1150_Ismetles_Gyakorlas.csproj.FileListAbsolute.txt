@@ -1,0 +1,8 @@
+C:\Users\kardy\Repositories\H1150_Ismetles_Gyakorlas\H1150_Ismetles_Gyakorlas\bin\Debug\H1150_Ismetles_Gyakorlas.exe.config
+C:\Users\kardy\Repositories\H1150_Ismetles_Gyakorlas\H1150_Ismetles_Gyakorlas\bin\Debug\H1150_Ismetles_Gyakorlas.exe
+C:\Users\kardy\Repositories\H1150_Ismetles_Gyakorlas\H1150_Ismetles_Gyakorlas\bin\Debug\H1150_Ismetles_Gyakorlas.pdb
+C:\Users\kardy\Repositories\H1150_Ismetles_Gyakorlas\H1150_Ismetles_Gyakorlas\obj\Debug\H1150_Ismetles_Gyakorlas.csproj.AssemblyReference.cache
+C:\Users\kardy\Repositories\H1150_Ismetles_Gyakorlas\H1150_Ismetles_Gyakorlas\obj\Debug\H1150_Ismetles_Gyakorlas.csproj.SuggestedBindingRedirects.cache
+C:\Users\kardy\Repositories\H1150_Ismetles_Gyakorlas\H1150_Ismetles_Gyakorlas\obj\Debug\H1150_Ismetles_Gyakorlas.csproj.CoreCompileInputs.cache
+C:\Users\kardy\Repositories\H1150_Ismetles_Gyakorlas\H1150_Ismetles_Gyakorlas\obj\Debug\H1150_Ismetles_Gyakorlas.exe
+C:\Users\kardy\Repositories\H1150_Ismetles_Gyakorlas\H1150_Ismetles_Gyakorlas\obj\Debug\H1150_Ismetles_Gyakorlas.pdb
