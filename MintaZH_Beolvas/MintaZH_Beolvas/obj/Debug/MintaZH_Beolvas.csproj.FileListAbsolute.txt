@@ -1,0 +1,8 @@
+D:\Repositories\Magprog_tananyag\MintaZH_Beolvas\MintaZH_Beolvas\bin\Debug\MintaZH_Beolvas.exe.config
+D:\Repositories\Magprog_tananyag\MintaZH_Beolvas\MintaZH_Beolvas\bin\Debug\MintaZH_Beolvas.exe
+D:\Repositories\Magprog_tananyag\MintaZH_Beolvas\MintaZH_Beolvas\bin\Debug\MintaZH_Beolvas.pdb
+D:\Repositories\Magprog_tananyag\MintaZH_Beolvas\MintaZH_Beolvas\obj\Debug\MintaZH_Beolvas.csproj.AssemblyReference.cache
+D:\Repositories\Magprog_tananyag\MintaZH_Beolvas\MintaZH_Beolvas\obj\Debug\MintaZH_Beolvas.csproj.SuggestedBindingRedirects.cache
+D:\Repositories\Magprog_tananyag\MintaZH_Beolvas\MintaZH_Beolvas\obj\Debug\MintaZH_Beolvas.csproj.CoreCompileInputs.cache
+D:\Repositories\Magprog_tananyag\MintaZH_Beolvas\MintaZH_Beolvas\obj\Debug\MintaZH_Beolvas.exe
+D:\Repositories\Magprog_tananyag\MintaZH_Beolvas\MintaZH_Beolvas\obj\Debug\MintaZH_Beolvas.pdb
