@@ -1,0 +1,8 @@
+D:\Repositories\Magprog_tananyag\Kivetelkezeles\Kivetelkezeles\bin\Debug\Kivetelkezeles.exe.config
+D:\Repositories\Magprog_tananyag\Kivetelkezeles\Kivetelkezeles\bin\Debug\Kivetelkezeles.exe
+D:\Repositories\Magprog_tananyag\Kivetelkezeles\Kivetelkezeles\bin\Debug\Kivetelkezeles.pdb
+D:\Repositories\Magprog_tananyag\Kivetelkezeles\Kivetelkezeles\obj\Debug\Kivetelkezeles.csproj.AssemblyReference.cache
+D:\Repositories\Magprog_tananyag\Kivetelkezeles\Kivetelkezeles\obj\Debug\Kivetelkezeles.csproj.SuggestedBindingRedirects.cache
+D:\Repositories\Magprog_tananyag\Kivetelkezeles\Kivetelkezeles\obj\Debug\Kivetelkezeles.csproj.CoreCompileInputs.cache
+D:\Repositories\Magprog_tananyag\Kivetelkezeles\Kivetelkezeles\obj\Debug\Kivetelkezeles.exe
+D:\Repositories\Magprog_tananyag\Kivetelkezeles\Kivetelkezeles\obj\Debug\Kivetelkezeles.pdb
